@@ -1,1 +1,1 @@
-# DSC530_TermEndProject2
+# Term end project for DSC530 course
